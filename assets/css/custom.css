@@ -1,0 +1,33 @@
+/* dashboard */
+.activateAccountLink{
+}
+
+/* settings */
+.app-list { overflow: hidden; }
+.app-list li { margin: 5px; float: left; }
+.app-list li a { text-align: center; font-size: 16px; text-decoration: none; min-width: 200px; display: table; padding: 15px 10px; border-radius: 50px; background-color: #4CAF50; color: #FFF !important; transition: all .1s; }
+.app-list li a:hover { background: #008CBA; }
+
+/* app */
+.form-list { overflow: hidden; }
+.form-list li { margin: 5px; float: left; }
+.form-list li a { text-align: center; font-size: 16px; text-decoration: none; min-width: 200px; display: table; padding: 15px 10px; border-radius: 50px; background-color: #4CAF50; color: #FFF !important; transition: all .1s; }
+.form-list li a:hover { background: #008CBA; }
+
+/* form */
+#btn-shortcodeGenerator{
+  padding: 10px; cursor: pointer;
+}
+.form-preview-wrapper{
+  padding: 10px 0; position: relative;
+}
+ul.fields-list {  }
+ul.fields-list li { margin: 20px 0; }
+.form-field { transition: all .1s; font-size: 16px; color: #555; }
+ul.fields-list li label:hover .form-field, .form-field:hover { color: #337ab7; }
+.checkedInput { background: #fff; padding: 10px 0; display: inline-block; text-transform: capitalize; font-weight: 500; font-size: 18px; color: #04A6F4; }
+.fieldCounter { display: inline-block; margin-right: 5px; font-size: 16px; }
+
+.vhide{
+  visibility: hidden;
+}

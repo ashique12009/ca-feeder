@@ -1,0 +1,5 @@
+.custom-ca-form-wrap { overflow: hidden; }
+.ca_form_field {}
+.ca_form_field input:focus, .ca_form_field input:focus-visible { outline: 0; }
+.ca_form_field label { cursor: pointer; }
+.ca_form_field input[type='submit'] { padding: 8px 40px; border-radius: 4px; }
